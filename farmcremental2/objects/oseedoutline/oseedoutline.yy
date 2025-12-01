@@ -6,8 +6,8 @@
   "name":"oseedoutline",
   "overriddenProperties":[],
   "parent":{
-    "name":"Farm Objects",
-    "path":"folders/Objects/Farm Objects.yy",
+    "name":"Farmcremental1",
+    "path":"folders/Objects/Farmcremental1.yy",
   },
   "parentObjectId":null,
   "persistent":false,

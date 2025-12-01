@@ -6,7 +6,7 @@
   "name":"scrPurchaseField",
   "parent":{
     "name":"Purchase scripts",
-    "path":"folders/Scripts/Purchase scripts.yy",
+    "path":"folders/Scripts/Farmcremental1/Purchase scripts.yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",

@@ -5,8 +5,8 @@
   "isDnD":false,
   "name":"scrAttemptSeedPlanting",
   "parent":{
-    "name":"Scripts",
-    "path":"folders/Scripts.yy",
+    "name":"Farmcremental1",
+    "path":"folders/Scripts/Farmcremental1.yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",

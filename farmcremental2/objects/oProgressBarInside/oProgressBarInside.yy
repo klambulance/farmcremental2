@@ -6,8 +6,8 @@
   "name":"oProgressBarInside",
   "overriddenProperties":[],
   "parent":{
-    "name":"Gui",
-    "path":"folders/Objects/Gui.yy",
+    "name":"Farmcremental1",
+    "path":"folders/Objects/Farmcremental1.yy",
   },
   "parentObjectId":null,
   "persistent":false,

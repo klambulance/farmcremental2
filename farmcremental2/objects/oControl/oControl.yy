@@ -10,8 +10,8 @@
   "name":"oControl",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Farmcremental1",
+    "path":"folders/Objects/Farmcremental1.yy",
   },
   "parentObjectId":null,
   "persistent":false,
