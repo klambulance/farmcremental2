@@ -7,4 +7,4 @@ pickable = false;
 plantValue = 0;
 moneyEarned = noone;
 
-oPlantControl.plant1Cnt++;
+oPlantControl.flowerCnt++;
