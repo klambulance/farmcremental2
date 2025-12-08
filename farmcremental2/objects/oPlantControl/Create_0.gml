@@ -11,4 +11,7 @@ plantY = 0;
 money=0;
 defaultTextColour = c_white;
 
+plant1Cnt = 0;
+plant1Max = 5;
+
 alarm[0] = seedTimer;
