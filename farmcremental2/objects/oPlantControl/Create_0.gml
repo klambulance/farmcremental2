@@ -14,8 +14,8 @@ defaultTextColour = c_white;
 flowerCnt = 0;
 flowerMax = 5;
 
-flowerVariantCnt = 1;
-flowerVariantMax = 4;
+flowerVariantCnt = 0;
+flowerVariantMax = 3;
 
 flowerSpawnTimer = 30;
 flowerTimer = 60;
@@ -24,14 +24,14 @@ flowerTimer = 60;
 bushCnt = 0;
 bushMax = 0;
 
-bushVariantCnt = 1;
-bushVariantMax = 1;
+bushVariantCnt = -1;
+bushVariantMax = -1;
 
 //tree variables
 treeCnt = 0;
 treeMax = 0;
 
-treeVariantCnt = 1;
-treeVariantMax = 1;
+treeVariantCnt = -1;
+treeVariantMax = -1;
 
 alarm[0] = flowerSpawnTimer;
