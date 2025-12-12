@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scrUpgradeFlowerMax",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scrUpgradeFlowerMax",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

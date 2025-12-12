@@ -26,6 +26,7 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings":[
+    {"name":"fntButtonText","order":1,"path":"fonts/fntButtonText/fntButtonText.yy",},
     {"name":"oButton","order":8,"path":"objects/oButton/oButton.yy",},
     {"name":"oControl","order":6,"path":"objects/oControl/oControl.yy",},
     {"name":"oFarm","order":1,"path":"objects/oFarm/oFarm.yy",},
@@ -35,6 +36,7 @@
     {"name":"oPlayer","order":2,"path":"objects/oPlayer/oPlayer.yy",},
     {"name":"oProgressBarInside","order":9,"path":"objects/oProgressBarInside/oProgressBarInside.yy",},
     {"name":"oProgressBarOutside","order":10,"path":"objects/oProgressBarOutside/oProgressBarOutside.yy",},
+    {"name":"oPurchaseButton","order":1,"path":"objects/oPurchaseButton/oPurchaseButton.yy",},
     {"name":"oSeed","order":3,"path":"objects/oSeed/oSeed.yy",},
     {"name":"oSeedBin","order":4,"path":"objects/oSeedBin/oSeedBin.yy",},
     {"name":"oseedoutline","order":5,"path":"objects/oseedoutline/oseedoutline.yy",},
@@ -48,6 +50,7 @@
     {"name":"scrPickPlantSprite","order":11,"path":"scripts/scrPickPlantSprite/scrPickPlantSprite.yy",},
     {"name":"scrPurchaseSeedCap","order":1,"path":"scripts/scrPurchaseSeedCap/scrPurchaseSeedCap.yy",},
     {"name":"scrUpdateProgressBar","order":10,"path":"scripts/scrUpdateProgressBar/scrUpdateProgressBar.yy",},
+    {"name":"scrUpgradeFlowerMax","order":14,"path":"scripts/scrUpgradeFlowerMax/scrUpgradeFlowerMax.yy",},
     {"name":"scrUpgradeFlowerSpawnTimer","order":13,"path":"scripts/scrUpgradeFlowerSpawnTimer/scrUpgradeFlowerSpawnTimer.yy",},
     {"name":"scrUpgradeFlowerVariants","order":12,"path":"scripts/scrUpgradeFlowerVariants/scrUpgradeFlowerVariants.yy",},
     {"name":"sBg","order":6,"path":"sprites/sBg/sBg.yy",},

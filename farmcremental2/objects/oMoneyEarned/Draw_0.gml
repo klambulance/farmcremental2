@@ -2,6 +2,7 @@
 // You can write your code in this editor
 
 draw_set_color(c_yellow);
+draw_set_font(fntSpicySale);
 draw_set_alpha(moneyEarnedAlpha);
 draw_text(x,y,string_concat("$",amount));
 draw_set_color(oPlantControl.defaultTextColour);

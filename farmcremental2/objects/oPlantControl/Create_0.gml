@@ -9,7 +9,9 @@ plantY = 0;
 money=0;
 defaultTextColour = c_white;
 
+//global maximums
 spawnMinTimer = 30;
+plantMax = 100;
 
 //flower variables
 flowerCnt = 0;

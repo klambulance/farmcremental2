@@ -45,6 +45,7 @@
   },
   "name":"farmcremental2",
   "resources":[
+    {"id":{"name":"fntButtonText","path":"fonts/fntButtonText/fntButtonText.yy",},},
     {"id":{"name":"fntSpicySale","path":"fonts/fntSpicySale/fntSpicySale.yy",},},
     {"id":{"name":"oButton","path":"objects/oButton/oButton.yy",},},
     {"id":{"name":"oControl","path":"objects/oControl/oControl.yy",},},
@@ -58,6 +59,7 @@
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},},
     {"id":{"name":"oProgressBarInside","path":"objects/oProgressBarInside/oProgressBarInside.yy",},},
     {"id":{"name":"oProgressBarOutside","path":"objects/oProgressBarOutside/oProgressBarOutside.yy",},},
+    {"id":{"name":"oPurchaseButton","path":"objects/oPurchaseButton/oPurchaseButton.yy",},},
     {"id":{"name":"oSeed","path":"objects/oSeed/oSeed.yy",},},
     {"id":{"name":"oSeedBin","path":"objects/oSeedBin/oSeedBin.yy",},},
     {"id":{"name":"oseedoutline","path":"objects/oseedoutline/oseedoutline.yy",},},
@@ -73,6 +75,7 @@
     {"id":{"name":"scrPurchaseField","path":"scripts/scrPurchaseField/scrPurchaseField.yy",},},
     {"id":{"name":"scrPurchaseSeedCap","path":"scripts/scrPurchaseSeedCap/scrPurchaseSeedCap.yy",},},
     {"id":{"name":"scrUpdateProgressBar","path":"scripts/scrUpdateProgressBar/scrUpdateProgressBar.yy",},},
+    {"id":{"name":"scrUpgradeFlowerMax","path":"scripts/scrUpgradeFlowerMax/scrUpgradeFlowerMax.yy",},},
     {"id":{"name":"scrUpgradeFlowerSpawnTimer","path":"scripts/scrUpgradeFlowerSpawnTimer/scrUpgradeFlowerSpawnTimer.yy",},},
     {"id":{"name":"scrUpgradeFlowerVariants","path":"scripts/scrUpgradeFlowerVariants/scrUpgradeFlowerVariants.yy",},},
     {"id":{"name":"sndCollect","path":"sounds/sndCollect/sndCollect.yy",},},
