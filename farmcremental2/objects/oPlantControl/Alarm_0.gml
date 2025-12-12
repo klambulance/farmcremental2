@@ -3,7 +3,7 @@
 
 if(flowerCnt < flowerMax){
 	plantX = irandom_range(20,xLimit);
-	plantY = irandom_range(20,yLimit);
+	plantY = irandom_range(130,yLimit);
 
 	instance_create_layer(plantX, plantY, "Seeds", oPlantSeed);
 }

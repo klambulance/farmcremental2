@@ -9,6 +9,7 @@ plantY = 0;
 money=0;
 defaultTextColour = c_white;
 
+spawnMinTimer = 30;
 
 //flower variables
 flowerCnt = 0;
@@ -17,7 +18,7 @@ flowerMax = 5;
 flowerVariantCnt = 0;
 flowerVariantMax = 3;
 
-flowerSpawnTimer = 30;
+flowerSpawnTimer = 120;
 flowerTimer = 60;
 
 //bush variables
