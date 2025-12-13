@@ -1,9 +1,9 @@
 {
   "$GMScript":"v1",
-  "%Name":"scrUpgradeFlowerMax",
+  "%Name":"scrUpgradePlantVariants",
   "isCompatibility":false,
   "isDnD":false,
-  "name":"scrUpgradeFlowerMax",
+  "name":"scrUpgradePlantVariants",
   "parent":{
     "name":"Scripts",
     "path":"folders/Scripts.yy",

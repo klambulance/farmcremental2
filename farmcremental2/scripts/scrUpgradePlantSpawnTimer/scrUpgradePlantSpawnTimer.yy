@@ -1,9 +1,9 @@
 {
   "$GMScript":"v1",
-  "%Name":"scrUpgradeFlowerSpawnTimer",
+  "%Name":"scrUpgradePlantSpawnTimer",
   "isCompatibility":false,
   "isDnD":false,
-  "name":"scrUpgradeFlowerSpawnTimer",
+  "name":"scrUpgradePlantSpawnTimer",
   "parent":{
     "name":"Scripts",
     "path":"folders/Scripts.yy",

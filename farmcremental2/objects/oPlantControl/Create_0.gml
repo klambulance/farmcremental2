@@ -25,16 +25,24 @@ flowerTimer = 60;
 
 //bush variables
 bushCnt = 0;
-bushMax = 0;
+bushMax = 5;
 
-bushVariantCnt = -1;
-bushVariantMax = -1;
+bushVariantCnt = 0;
+bushVariantMax = 3;
+
+bushSpawnTimer = 120;
+bushTimer = 60;
 
 //tree variables
 treeCnt = 0;
-treeMax = 0;
+treeMax = 5;
 
-treeVariantCnt = -1;
-treeVariantMax = -1;
+treeVariantCnt = 0;
+treeVariantMax = 3;
+
+treeSpawnTimer = 120;
+treeTimer = 60;
 
 alarm[0] = flowerSpawnTimer;
+alarm[1] = bushSpawnTimer;
+alarm[2] = treeSpawnTimer;
