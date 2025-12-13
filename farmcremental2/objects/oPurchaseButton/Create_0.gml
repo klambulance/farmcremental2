@@ -11,4 +11,16 @@ if(buttonFunction == "increaseFlowerVariantCount"){
 	buttonText = "Flower Freq. ++";
 }else if(buttonFunction == "increaseFlowerMax"){
 	buttonText = "Flower Max ++";
+}else if(buttonFunction == "increaseBushVariantCount"){
+	buttonText = "Bush Variant++";
+}else if(buttonFunction == "increaseBushFrequency"){
+	buttonText = "Bush Freq. ++";
+}else if(buttonFunction == "increaseBushMax"){
+	buttonText = "Bush Max ++";
+}else if(buttonFunction == "increaseTreeVariantCount"){
+	buttonText = "Tree Variant++";
+}else if(buttonFunction == "increaseTreeFrequency"){
+	buttonText = "Tree Freq. ++";
+}else if(buttonFunction == "increaseTreeMax"){
+	buttonText = "Tree Max ++";
 }
