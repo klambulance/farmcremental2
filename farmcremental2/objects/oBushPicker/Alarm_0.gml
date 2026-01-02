@@ -2,10 +2,9 @@
 // You can write your code in this editor
 
 if(state == "idle"){
-	target = scrCheckForTarget(oFlowerSeed);
+	target = scrCheckForTarget(oBushSeed);
 	if(target != noone){
 		state = "moving";
-		target.targettedBy = self;
 	}
 }
 alarm[0] = botTimer;

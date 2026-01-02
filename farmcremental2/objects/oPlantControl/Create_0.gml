@@ -13,6 +13,9 @@ defaultTextColour = c_white;
 spawnMinTimer = 30;
 plantMax = 100;
 
+//flower picker variables
+gatherTime = 60;
+
 //flower variables
 flowerCnt = 0;
 flowerMax = 5;

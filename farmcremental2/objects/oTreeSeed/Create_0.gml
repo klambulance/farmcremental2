@@ -8,3 +8,4 @@ plantValue = 0;
 moneyEarned = noone;
 
 oPlantControl.treeCnt++;
+targettedBy = noone;

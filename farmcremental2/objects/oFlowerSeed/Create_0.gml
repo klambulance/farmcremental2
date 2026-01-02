@@ -8,3 +8,5 @@ plantValue = 0;
 moneyEarned = noone;
 
 oPlantControl.flowerCnt++;
+
+targettedBy = noone;

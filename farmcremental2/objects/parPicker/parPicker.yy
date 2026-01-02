@@ -1,17 +1,16 @@
 {
   "$GMObject":"",
-  "%Name":"oProgressBarOutside",
+  "%Name":"parPicker",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":1,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"oProgressBarOutside",
+  "name":"parPicker",
   "overriddenProperties":[],
   "parent":{
-    "name":"Gui",
-    "path":"folders/Objects/Gui.yy",
+    "name":"Field Objects",
+    "path":"folders/Objects/Field Objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -31,10 +30,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"sProgressBarInside",
-    "path":"sprites/sProgressBarInside/sProgressBarInside.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }

@@ -7,3 +7,5 @@ target = noone;
 alarm[0] = botTimer;
 
 state = "idle";
+bar = noone;
+gatherTime = oPlantControl.gatherTime;
