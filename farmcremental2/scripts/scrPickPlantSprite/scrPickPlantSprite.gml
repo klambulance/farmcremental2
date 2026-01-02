@@ -2,7 +2,6 @@
 // https://help.yoyogames.com/hc/en-us/articles/360005277377 for more information
 function scrPickFlowerSprite(_variantCnt){
 	var _pick = irandom(_variantCnt);
-	show_debug_message(_pick);
 	var _spritePicked = noone;
 	if(_pick == 0){
 		_spritePicked = sFlower1;
@@ -32,7 +31,6 @@ function scrPickFlowerValue(_sprite){
 
 function scrPickBushSprite(_variantCnt){
 	var _pick = irandom(_variantCnt);
-	show_debug_message(_pick);
 	var _spritePicked = noone;
 	if(_pick == 0){
 		_spritePicked = sBush1;
@@ -62,7 +60,6 @@ function scrPickBushValue(_sprite){
 
 function scrPickTreeSprite(_variantCnt){
 	var _pick = irandom(_variantCnt);
-	show_debug_message(_pick);
 	var _spritePicked = noone;
 	if(_pick == 0){
 		_spritePicked = sTree1;

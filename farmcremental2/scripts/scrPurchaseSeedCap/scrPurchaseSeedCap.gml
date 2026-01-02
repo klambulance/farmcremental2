@@ -2,5 +2,4 @@
 // https://help.yoyogames.com/hc/en-us/articles/360005277377 for more information
 function scrPurchaseSeedCap(){
 	oPlayer.seedCap++;
-	show_debug_message(string_concat("seedcap ", oPlayer.seedCap));
 }

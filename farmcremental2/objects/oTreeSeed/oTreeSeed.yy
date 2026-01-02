@@ -33,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sSeed1",
-    "path":"sprites/sSeed1/sSeed1.yy",
+    "name":"sTreeSeed",
+    "path":"sprites/sTreeSeed/sTreeSeed.yy",
   },
   "spriteMaskId":null,
   "visible":true,

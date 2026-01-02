@@ -17,6 +17,8 @@
     {"name":"inst_609E8B0C","path":"rooms/rmFarm/rmFarm.yy",},
     {"name":"inst_2EC9F258","path":"rooms/rmFarm/rmFarm.yy",},
     {"name":"inst_2565AFCA","path":"rooms/rmFarm/rmFarm.yy",},
+    {"name":"inst_7E81C389","path":"rooms/rmFarm/rmFarm.yy",},
+    {"name":"inst_DF32559","path":"rooms/rmFarm/rmFarm.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -48,6 +50,8 @@
         {"$GMRInstance":"v2","%Name":"inst_1E3992A4","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_1E3992A4","objectId":{"name":"oPurchaseButton","path":"objects/oPurchaseButton/oPurchaseButton.yy",},"properties":[
             {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"oPurchaseButton","path":"objects/oPurchaseButton/oPurchaseButton.yy",},"propertyId":{"name":"buttonFunction","path":"objects/oPurchaseButton/oPurchaseButton.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"\"increaseBushFrequency\"",},
           ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":481.0,"y":32.0,},
+        {"$GMRInstance":"v2","%Name":"inst_7E81C389","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_7E81C389","objectId":{"name":"oPrestigeButton","path":"objects/oPrestigeButton/oPrestigeButton.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1700.0,"y":2.0,},
+        {"$GMRInstance":"v2","%Name":"inst_DF32559","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_DF32559","objectId":{"name":"oFlowerPicker","path":"objects/oFlowerPicker/oFlowerPicker.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1551.0,"y":226.0,},
       ],"layers":[],"name":"GUI","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRInstanceLayer":"","%Name":"Foreground","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[],"layers":[],"name":"Foreground","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRInstanceLayer":"","%Name":"Player_layer","depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[],"layers":[

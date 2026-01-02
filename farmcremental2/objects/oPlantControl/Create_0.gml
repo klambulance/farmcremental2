@@ -23,9 +23,18 @@ flowerVariantMax = 3;
 flowerSpawnTimer = 120;
 flowerTimer = 60;
 
+increaseFlowerMaxCost = [1,5,10,50];
+increaseFlowerMaxCount = 0;
+
+increaseFlowerFrequencyCost = [5,5,10,50];
+increaseFlowerFrequencyCount = 0;
+
+increaseFlowerVariantCountCost = [10,5,10,50];
+increaseFlowerVariantCountCount = 0;
+
 //bush variables
 bushCnt = 0;
-bushMax = 5;
+bushMax = 0;
 
 bushVariantCnt = 0;
 bushVariantMax = 3;
@@ -33,15 +42,49 @@ bushVariantMax = 3;
 bushSpawnTimer = 120;
 bushTimer = 60;
 
+increaseBushMaxCost = [100,5,10,50];
+increaseBushMaxCount = 0;
+
+increaseBushFrequencyCost = [200,5,10,50];
+increaseBushFrequencyCount = 0;
+
+increaseBushVariantCountCost = [500,5,10,50];
+increaseBushVariantCountCount = 0;
 //tree variables
 treeCnt = 0;
-treeMax = 5;
+treeMax = 0;
 
 treeVariantCnt = 0;
 treeVariantMax = 3;
 
 treeSpawnTimer = 120;
 treeTimer = 60;
+
+increaseTreeMaxCost = [1000,5,10,50];
+increaseTreeMaxCount = 0;
+
+increaseTreeFrequencyCost = [2000,5,10,50];
+increaseTreeFrequencyCount = 0;
+
+increaseTreeVariantCountCost = [5000,5,10,50];
+increaseTreeVariantCountCount = 0;
+
+//prestige variables
+prestigeCost = [100,1000,10000];
+prestigeCount = 0;
+
+//button variables
+flowerMaxButton = true;
+flowerFreqButton = false;
+flowerVariantButton = false;
+
+bushMaxButton = false;
+bushFreqButton = false;
+bushVariantButton = false;
+
+treeMaxButton = false;
+treeFreqButton = false;
+treeVariantButton = false;
 
 alarm[0] = flowerSpawnTimer;
 alarm[1] = bushSpawnTimer;
