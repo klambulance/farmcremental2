@@ -9,8 +9,8 @@
   "name":"parPicker",
   "overriddenProperties":[],
   "parent":{
-    "name":"Field Objects",
-    "path":"folders/Objects/Field Objects.yy",
+    "name":"Pickers",
+    "path":"folders/Objects/Field Objects/Pickers.yy",
   },
   "parentObjectId":null,
   "persistent":false,

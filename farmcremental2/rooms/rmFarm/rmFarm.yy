@@ -19,6 +19,8 @@
     {"name":"inst_2565AFCA","path":"rooms/rmFarm/rmFarm.yy",},
     {"name":"inst_7E81C389","path":"rooms/rmFarm/rmFarm.yy",},
     {"name":"inst_DF32559","path":"rooms/rmFarm/rmFarm.yy",},
+    {"name":"inst_3184073F","path":"rooms/rmFarm/rmFarm.yy",},
+    {"name":"inst_73089FE9","path":"rooms/rmFarm/rmFarm.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -52,6 +54,8 @@
           ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":481.0,"y":32.0,},
         {"$GMRInstance":"v2","%Name":"inst_7E81C389","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_7E81C389","objectId":{"name":"oPrestigeButton","path":"objects/oPrestigeButton/oPrestigeButton.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1700.0,"y":2.0,},
         {"$GMRInstance":"v2","%Name":"inst_DF32559","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_DF32559","objectId":{"name":"oFlowerPicker","path":"objects/oFlowerPicker/oFlowerPicker.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1551.0,"y":226.0,},
+        {"$GMRInstance":"v2","%Name":"inst_3184073F","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_3184073F","objectId":{"name":"oBushPicker","path":"objects/oBushPicker/oBushPicker.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1130.0,"y":202.0,},
+        {"$GMRInstance":"v2","%Name":"inst_73089FE9","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_73089FE9","objectId":{"name":"oTreePicker","path":"objects/oTreePicker/oTreePicker.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1466.0,"y":364.0,},
       ],"layers":[],"name":"GUI","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRInstanceLayer":"","%Name":"Foreground","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[],"layers":[],"name":"Foreground","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRInstanceLayer":"","%Name":"Player_layer","depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[],"layers":[

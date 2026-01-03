@@ -9,8 +9,8 @@
   "name":"oFlowerPicker",
   "overriddenProperties":[],
   "parent":{
-    "name":"Field Objects",
-    "path":"folders/Objects/Field Objects.yy",
+    "name":"Pickers",
+    "path":"folders/Objects/Field Objects/Pickers.yy",
   },
   "parentObjectId":{
     "name":"parPicker",

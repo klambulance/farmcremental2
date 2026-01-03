@@ -6,5 +6,6 @@ plantSprite = noone;
 pickable = false;
 plantValue = 0;
 moneyEarned = noone;
+targettedBy = noone;
 
 oPlantControl.bushCnt++;

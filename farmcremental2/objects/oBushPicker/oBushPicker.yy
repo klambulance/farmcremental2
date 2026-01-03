@@ -2,17 +2,15 @@
   "$GMObject":"",
   "%Name":"oBushPicker",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"oBushSeed","path":"objects/oBushSeed/oBushSeed.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
   "name":"oBushPicker",
   "overriddenProperties":[],
   "parent":{
-    "name":"Field Objects",
-    "path":"folders/Objects/Field Objects.yy",
+    "name":"Pickers",
+    "path":"folders/Objects/Field Objects/Pickers.yy",
   },
   "parentObjectId":{
     "name":"parPicker",

@@ -11,8 +11,8 @@
   "name":"oTreeSeed",
   "overriddenProperties":[],
   "parent":{
-    "name":"Field Objects",
-    "path":"folders/Objects/Field Objects.yy",
+    "name":"Seeds",
+    "path":"folders/Objects/Field Objects/Seeds.yy",
   },
   "parentObjectId":null,
   "persistent":false,

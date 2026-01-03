@@ -5,6 +5,7 @@ if(target != noone and state == "moving"){
 	speed = 3;
 }else if((target == noone or target = -4) and state != "idle"){
 	state = "idle";
+	speed=0;
 }else{
 	speed=0;
 }
