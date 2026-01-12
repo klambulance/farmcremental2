@@ -1,4 +1,4 @@
-/// @description Insert description here
+/// @description Flower alarm
 // You can write your code in this editor
 
 if(flowerCnt < flowerMax){

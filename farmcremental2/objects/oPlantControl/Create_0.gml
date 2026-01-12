@@ -12,6 +12,7 @@ defaultTextColour = c_white;
 //global maximums
 spawnMinTimer = 30;
 plantMax = 100;
+pickerMax = 10;
 
 //flower picker variables
 gatherTime = 60;
@@ -76,6 +77,21 @@ increaseTreeVariantCountCount = 0;
 prestigeCost = [100,1000,10000];
 prestigeCount = 0;
 
+//flower picker variables
+flowerPickerCount = 0;
+flowerPickerMax = 0;
+flowerPickerSpawnTimer = 60;
+
+increaseFlowerPickerMaxCost = [1,1000,10000];
+increaseFlowerPickerMaxCount = 0;
+
+increaseFlowerPickerSpeedCost = [1,1000,10000];
+increaseFlowerPickerSpeedCount = 0;
+
+increaseFlowerPickerRecoveryCost = [1,1000,10000];
+increaseFlowerPickerRecoveryCount = 0;
+
+
 //button variables
 flowerMaxButton = true;
 flowerFreqButton = false;
@@ -92,3 +108,4 @@ treeVariantButton = false;
 alarm[0] = flowerSpawnTimer;
 alarm[1] = bushSpawnTimer;
 alarm[2] = treeSpawnTimer;
+alarm[3] = flowerPickerSpawnTimer;

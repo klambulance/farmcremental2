@@ -80,6 +80,7 @@
     {"name":"sFlower2","order":4,"path":"sprites/sFlower2/sFlower2.yy",},
     {"name":"sFlower3","order":6,"path":"sprites/sFlower3/sFlower3.yy",},
     {"name":"sFlower4","order":5,"path":"sprites/sFlower4/sFlower4.yy",},
+    {"name":"sFlowerPickerRecovery","order":3,"path":"sprites/sFlowerPickerRecovery/sFlowerPickerRecovery.yy",},
     {"name":"sFlowerSeed","order":1,"path":"sprites/sFlowerSeed/sFlowerSeed.yy",},
     {"name":"sGuiBg","order":16,"path":"sprites/sGuiBg/sGuiBg.yy",},
     {"name":"sPlayerCrops","order":1,"path":"sprites/sPlayerCrops/sPlayerCrops.yy",},

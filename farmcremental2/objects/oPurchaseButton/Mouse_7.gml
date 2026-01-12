@@ -28,5 +28,8 @@ if(canAfford){
 	}else if(buttonFunction == "increaseTreeMax"){
 		oPlantControl.treeMax = scrUpgradePlantMax(oPlantControl.treeMax, oPlantControl.plantMax, cost);
 		oPlantControl.increaseTreeMaxCount++;
+	}else if(buttonFunction == "increaseFlowerPickerMax"){
+		oPlantControl.flowerPickerMax = scrUpgradePlantMax(oPlantControl.flowerPickerMax, oPlantControl.pickerMax, cost);
+		oPlantControl.increaseFlowerPickerMaxCount++;
 	}
 }

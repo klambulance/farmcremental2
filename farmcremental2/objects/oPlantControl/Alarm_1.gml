@@ -1,4 +1,4 @@
-/// @description Insert description here
+/// @description Bush alarm
 // You can write your code in this editor
 
 if(bushCnt < bushMax){

@@ -110,6 +110,7 @@
     {"id":{"name":"sFlower3","path":"sprites/sFlower3/sFlower3.yy",},},
     {"id":{"name":"sFlower4","path":"sprites/sFlower4/sFlower4.yy",},},
     {"id":{"name":"sFlowerPicker","path":"sprites/sFlowerPicker/sFlowerPicker.yy",},},
+    {"id":{"name":"sFlowerPickerRecovery","path":"sprites/sFlowerPickerRecovery/sFlowerPickerRecovery.yy",},},
     {"id":{"name":"sFlowerSeed","path":"sprites/sFlowerSeed/sFlowerSeed.yy",},},
     {"id":{"name":"sGuiBg","path":"sprites/sGuiBg/sGuiBg.yy",},},
     {"id":{"name":"sPlayer","path":"sprites/sPlayer/sPlayer.yy",},},

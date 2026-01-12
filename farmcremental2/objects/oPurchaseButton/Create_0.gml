@@ -6,7 +6,6 @@ isVisible = false;
 visible = false;
 cost = 1;
 alarm[0] = 10;
-
 if(buttonFunction == "increaseFlowerVariantCount"){
 	buttonText = "Flower Variant++";
 }else if(buttonFunction == "increaseFlowerFrequency"){
@@ -25,4 +24,10 @@ if(buttonFunction == "increaseFlowerVariantCount"){
 	buttonText = "Tree Freq. ++";
 }else if(buttonFunction == "increaseTreeMax"){
 	buttonText = "Tree Max ++";
+}else if(buttonFunction == "increaseFlowerPickerMax"){
+	buttonText = "Flower Picker++";
+}else if(buttonFunction == "increaseFlowerPickerRecovery"){
+	buttonText = "FP Recovery++";
+}else if(buttonFunction == "increaseFlowerPickerSpeed"){
+	buttonText = "FP Speed++";
 }

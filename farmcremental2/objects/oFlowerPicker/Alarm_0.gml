@@ -1,7 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-if(state == "idle"){
+if(state == "idle" and recovered){
 	target = scrCheckForTarget(oFlowerSeed);
 	if(target != noone){
 		state = "moving";

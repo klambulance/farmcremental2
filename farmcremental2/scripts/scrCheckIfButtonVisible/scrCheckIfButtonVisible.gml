@@ -42,6 +42,18 @@ function scrCheckIfButtonVisible(_text){
 		if(oPlantControl.money >= oPlantControl.prestigeCost[oPlantControl.prestigeCount]){
 			makeVisible = true;
 		}
+	}else if(buttonFunction == "increaseFlowerPickerMax"){
+		if(oPlantControl.money >= oPlantControl.increaseFlowerPickerMaxCost[oPlantControl.increaseFlowerPickerMaxCount]){
+			makeVisible = true;
+		}
+	}else if(buttonFunction == "increaseFlowerPickerRecovery"){
+		if(oPlantControl.money >= oPlantControl.increaseFlowerPickerRecoveryCost[oPlantControl.increaseFlowerPickerRecoveryCount]){
+			makeVisible = true;
+		}
+	}else if(buttonFunction == "increaseFlowerPickerSpeed"){
+		if(oPlantControl.money >= oPlantControl.increaseFlowerPickerSpeedCost[oPlantControl.increaseFlowerPickerSpeedCount]){
+			makeVisible = true;
+		}
 	}
 	return makeVisible;
 }

@@ -6,7 +6,15 @@ function scrHarvest(_owner){
 	_target = _owner.target;
 	if(_target != noone){
 		scrEarnMoney(_target);
+		scrPutUnitInRecovery(_owner);
 		_owner.target = noone;
 		_owner.bar = noone;
 	}
+}
+
+function scrPutUnitInRecovery(_unit){
+
+	_unit.recovered = "false";
+	_unit.sprite_index = _unit.recoverySprite;
+	_unit.alarm[11] = _unit.recoveryTime;
 }
